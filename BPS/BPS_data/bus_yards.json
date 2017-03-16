@@ -1,0 +1,6034 @@
+{
+    "85": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B370"
+    },
+    "152": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B437"
+    },
+    "666": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS227"
+    },
+    "220": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B505"
+    },
+    "116": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B401"
+    },
+    "732": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB936"
+    },
+    "673": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS234"
+    },
+    "444": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS282"
+    },
+    "54": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B339"
+    },
+    "56": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B341"
+    },
+    "223": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B508"
+    },
+    "131": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B416"
+    },
+    "358": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS196"
+    },
+    "146": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B431"
+    },
+    "628": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS189"
+    },
+    "142": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B427"
+    },
+    "419": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS257"
+    },
+    "680": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS241"
+    },
+    "89": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B374"
+    },
+    "687": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS248"
+    },
+    "155": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B440"
+    },
+    "101": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B386"
+    },
+    "222": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B507"
+    },
+    "542": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS380"
+    },
+    "335": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS173"
+    },
+    "400": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS238"
+    },
+    "337": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS175"
+    },
+    "623": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS184"
+    },
+    "160": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B445"
+    },
+    "148": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B433"
+    },
+    "463": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS301"
+    },
+    "111": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B396"
+    },
+    "240": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B525"
+    },
+    "651": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS212"
+    },
+    "36": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B321"
+    },
+    "404": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS242"
+    },
+    "288": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS119"
+    },
+    "57": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B342"
+    },
+    "708": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB912"
+    },
+    "738": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB942"
+    },
+    "322": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS160"
+    },
+    "107": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B392"
+    },
+    "521": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS359"
+    },
+    "679": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS240"
+    },
+    "263": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B548"
+    },
+    "339": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS177"
+    },
+    "402": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS240"
+    },
+    "684": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS245"
+    },
+    "672": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS233"
+    },
+    "300": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS135"
+    },
+    "231": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B516"
+    },
+    "452": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS290"
+    },
+    "297": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS132"
+    },
+    "638": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS199"
+    },
+    "556": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS117"
+    },
+    "83": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B368"
+    },
+    "254": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B539"
+    },
+    "499": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS337"
+    },
+    "614": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS175"
+    },
+    "158": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B443"
+    },
+    "326": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS164"
+    },
+    "537": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS375"
+    },
+    "298": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS133"
+    },
+    "690": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS251"
+    },
+    "391": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS229"
+    },
+    "255": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B540"
+    },
+    "301": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS136"
+    },
+    "374": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS212"
+    },
+    "82": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B367"
+    },
+    "550": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS111"
+    },
+    "610": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS171"
+    },
+    "602": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS163"
+    },
+    "598": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS159"
+    },
+    "483": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS321"
+    },
+    "411": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS249"
+    },
+    "603": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS164"
+    },
+    "205": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B490"
+    },
+    "342": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS180"
+    },
+    "593": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS154"
+    },
+    "214": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B499"
+    },
+    "51": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B336"
+    },
+    "68": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B353"
+    },
+    "209": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B494"
+    },
+    "475": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS313"
+    },
+    "75": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B360"
+    },
+    "560": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS121"
+    },
+    "442": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS280"
+    },
+    "501": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS339"
+    },
+    "3": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B288"
+    },
+    "368": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS206"
+    },
+    "576": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS137"
+    },
+    "280": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS095"
+    },
+    "153": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B438"
+    },
+    "641": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS202"
+    },
+    "225": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B510"
+    },
+    "477": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS315"
+    },
+    "485": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS323"
+    },
+    "423": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS261"
+    },
+    "294": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS129"
+    },
+    "71": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B356"
+    },
+    "712": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB916"
+    },
+    "504": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS342"
+    },
+    "398": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS236"
+    },
+    "447": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS285"
+    },
+    "269": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B554"
+    },
+    "329": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS167"
+    },
+    "535": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS373"
+    },
+    "230": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B515"
+    },
+    "145": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B430"
+    },
+    "251": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B536"
+    },
+    "16": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B301"
+    },
+    "632": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS193"
+    },
+    "37": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B322"
+    },
+    "405": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS243"
+    },
+    "97": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B382"
+    },
+    "367": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS205"
+    },
+    "211": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B496"
+    },
+    "96": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B381"
+    },
+    "418": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS256"
+    },
+    "545": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS106"
+    },
+    "446": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS284"
+    },
+    "88": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B373"
+    },
+    "557": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS118"
+    },
+    "548": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS109"
+    },
+    "635": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS196"
+    },
+    "448": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS286"
+    },
+    "453": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS291"
+    },
+    "42": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B327"
+    },
+    "474": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS312"
+    },
+    "456": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS294"
+    },
+    "726": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB930"
+    },
+    "408": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS246"
+    },
+    "700": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB904"
+    },
+    "242": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B527"
+    },
+    "232": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B517"
+    },
+    "587": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS148"
+    },
+    "172": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B457"
+    },
+    "420": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS258"
+    },
+    "163": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B448"
+    },
+    "709": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB913"
+    },
+    "559": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS120"
+    },
+    "17": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B302"
+    },
+    "302": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS137"
+    },
+    "174": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B459"
+    },
+    "703": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB907"
+    },
+    "270": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B555"
+    },
+    "597": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS158"
+    },
+    "497": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS335"
+    },
+    "59": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B344"
+    },
+    "283": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS102"
+    },
+    "723": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB927"
+    },
+    "332": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS170"
+    },
+    "77": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B362"
+    },
+    "261": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B546"
+    },
+    "584": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS145"
+    },
+    "333": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS171"
+    },
+    "583": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS144"
+    },
+    "308": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS146"
+    },
+    "649": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS210"
+    },
+    "33": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B318"
+    },
+    "228": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B513"
+    },
+    "237": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B522"
+    },
+    "549": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS110"
+    },
+    "202": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B487"
+    },
+    "245": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B530"
+    },
+    "503": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS341"
+    },
+    "498": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS336"
+    },
+    "476": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS314"
+    },
+    "353": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS191"
+    },
+    "490": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS328"
+    },
+    "212": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B497"
+    },
+    "248": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B533"
+    },
+    "555": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS116"
+    },
+    "633": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS194"
+    },
+    "351": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS189"
+    },
+    "457": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS295"
+    },
+    "30": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B315"
+    },
+    "612": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS173"
+    },
+    "458": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS296"
+    },
+    "691": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS252"
+    },
+    "658": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS219"
+    },
+    "470": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS308"
+    },
+    "31": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B316"
+    },
+    "143": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B428"
+    },
+    "194": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B479"
+    },
+    "392": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS230"
+    },
+    "514": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS352"
+    },
+    "744": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB948"
+    },
+    "713": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB917"
+    },
+    "161": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B446"
+    },
+    "55": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B340"
+    },
+    "659": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS220"
+    },
+    "73": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B358"
+    },
+    "8": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B293"
+    },
+    "526": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS364"
+    },
+    "396": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS234"
+    },
+    "377": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS215"
+    },
+    "34": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B319"
+    },
+    "506": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS344"
+    },
+    "48": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B333"
+    },
+    "156": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B441"
+    },
+    "218": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B503"
+    },
+    "133": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B418"
+    },
+    "733": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB937"
+    },
+    "492": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS330"
+    },
+    "281": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS100"
+    },
+    "27": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B312"
+    },
+    "305": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS143"
+    },
+    "510": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS348"
+    },
+    "304": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS142"
+    },
+    "648": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS209"
+    },
+    "12": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B297"
+    },
+    "238": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B523"
+    },
+    "495": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS333"
+    },
+    "541": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS379"
+    },
+    "381": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS219"
+    },
+    "749": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB953"
+    },
+    "99": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B384"
+    },
+    "61": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B346"
+    },
+    "295": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS130"
+    },
+    "417": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS255"
+    },
+    "299": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS134"
+    },
+    "701": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB905"
+    },
+    "41": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B326"
+    },
+    "52": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B337"
+    },
+    "646": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS207"
+    },
+    "394": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS232"
+    },
+    "236": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B521"
+    },
+    "725": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB929"
+    },
+    "289": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS120"
+    },
+    "74": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B359"
+    },
+    "10": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B295"
+    },
+    "170": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B455"
+    },
+    "21": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B306"
+    },
+    "513": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS351"
+    },
+    "15": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B300"
+    },
+    "414": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS252"
+    },
+    "196": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B481"
+    },
+    "224": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B509"
+    },
+    "9": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B294"
+    },
+    "661": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS222"
+    },
+    "625": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS186"
+    },
+    "439": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS277"
+    },
+    "630": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS191"
+    },
+    "241": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B526"
+    },
+    "370": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS208"
+    },
+    "440": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS278"
+    },
+    "496": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS334"
+    },
+    "479": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS317"
+    },
+    "315": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS153"
+    },
+    "665": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS226"
+    },
+    "488": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS326"
+    },
+    "79": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B364"
+    },
+    "138": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B423"
+    },
+    "376": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS214"
+    },
+    "157": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B442"
+    },
+    "631": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS192"
+    },
+    "605": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS166"
+    },
+    "699": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB903"
+    },
+    "432": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS270"
+    },
+    "750": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB954"
+    },
+    "272": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B557"
+    },
+    "4": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B289"
+    },
+    "539": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS377"
+    },
+    "183": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B468"
+    },
+    "591": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS152"
+    },
+    "150": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B435"
+    },
+    "403": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS241"
+    },
+    "47": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B332"
+    },
+    "265": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B550"
+    },
+    "379": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS217"
+    },
+    "310": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS148"
+    },
+    "216": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B501"
+    },
+    "515": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS353"
+    },
+    "437": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS275"
+    },
+    "650": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS211"
+    },
+    "682": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS243"
+    },
+    "313": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS151"
+    },
+    "540": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS378"
+    },
+    "469": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS307"
+    },
+    "278": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS089"
+    },
+    "739": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB943"
+    },
+    "671": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS232"
+    },
+    "167": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B452"
+    },
+    "689": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS250"
+    },
+    "389": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS227"
+    },
+    "581": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS142"
+    },
+    "426": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS264"
+    },
+    "412": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS250"
+    },
+    "331": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS169"
+    },
+    "260": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B545"
+    },
+    "151": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B436"
+    },
+    "599": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS160"
+    },
+    "94": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B379"
+    },
+    "229": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B514"
+    },
+    "728": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB932"
+    },
+    "186": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B471"
+    },
+    "293": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS128"
+    },
+    "538": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS376"
+    },
+    "195": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B480"
+    },
+    "282": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS101"
+    },
+    "306": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS144"
+    },
+    "546": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS107"
+    },
+    "311": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS149"
+    },
+    "464": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS302"
+    },
+    "253": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B538"
+    },
+    "669": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS230"
+    },
+    "742": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB946"
+    },
+    "502": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS340"
+    },
+    "735": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB939"
+    },
+    "365": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS203"
+    },
+    "461": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS299"
+    },
+    "724": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB928"
+    },
+    "177": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B462"
+    },
+    "617": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS178"
+    },
+    "247": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B532"
+    },
+    "189": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B474"
+    },
+    "125": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B410"
+    },
+    "126": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B411"
+    },
+    "63": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B348"
+    },
+    "190": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B475"
+    },
+    "348": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS186"
+    },
+    "204": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B489"
+    },
+    "660": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS221"
+    },
+    "296": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS131"
+    },
+    "570": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS131"
+    },
+    "198": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B483"
+    },
+    "303": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS140"
+    },
+    "645": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS206"
+    },
+    "168": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B453"
+    },
+    "369": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS207"
+    },
+    "53": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B338"
+    },
+    "606": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS167"
+    },
+    "316": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS154"
+    },
+    "323": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS161"
+    },
+    "164": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B449"
+    },
+    "256": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B541"
+    },
+    "104": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B389"
+    },
+    "736": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB940"
+    },
+    "110": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B395"
+    },
+    "512": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS350"
+    },
+    "23": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B308"
+    },
+    "433": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS271"
+    },
+    "6": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B291"
+    },
+    "688": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS249"
+    },
+    "149": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B434"
+    },
+    "78": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B363"
+    },
+    "624": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS185"
+    },
+    "737": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB941"
+    },
+    "551": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS112"
+    },
+    "681": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS242"
+    },
+    "435": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS273"
+    },
+    "531": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS369"
+    },
+    "579": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS140"
+    },
+    "207": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B492"
+    },
+    "362": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS200"
+    },
+    "105": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B390"
+    },
+    "562": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS123"
+    },
+    "384": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS222"
+    },
+    "493": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS331"
+    },
+    "694": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS255"
+    },
+    "543": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS104"
+    },
+    "60": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B345"
+    },
+    "80": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B365"
+    },
+    "569": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS130"
+    },
+    "629": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS190"
+    },
+    "350": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS188"
+    },
+    "552": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS113"
+    },
+    "698": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB902"
+    },
+    "620": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS181"
+    },
+    "407": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS245"
+    },
+    "554": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS115"
+    },
+    "482": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS320"
+    },
+    "217": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B502"
+    },
+    "383": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS221"
+    },
+    "618": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS179"
+    },
+    "72": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B357"
+    },
+    "210": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B495"
+    },
+    "49": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B334"
+    },
+    "213": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B498"
+    },
+    "32": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B317"
+    },
+    "657": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS218"
+    },
+    "344": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS182"
+    },
+    "373": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS211"
+    },
+    "199": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B484"
+    },
+    "718": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB922"
+    },
+    "509": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS347"
+    },
+    "130": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B415"
+    },
+    "357": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS195"
+    },
+    "290": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS121"
+    },
+    "179": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B464"
+    },
+    "363": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS201"
+    },
+    "668": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS229"
+    },
+    "462": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS300"
+    },
+    "454": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS292"
+    },
+    "120": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B405"
+    },
+    "731": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB935"
+    },
+    "239": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B524"
+    },
+    "159": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B444"
+    },
+    "663": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS224"
+    },
+    "193": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B478"
+    },
+    "727": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB931"
+    },
+    "644": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS205"
+    },
+    "459": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS297"
+    },
+    "714": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB918"
+    },
+    "118": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B403"
+    },
+    "249": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B534"
+    },
+    "2": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B287"
+    },
+    "46": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B331"
+    },
+    "380": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS218"
+    },
+    "328": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS166"
+    },
+    "704": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB908"
+    },
+    "604": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS165"
+    },
+    "92": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B377"
+    },
+    "338": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS176"
+    },
+    "431": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS269"
+    },
+    "267": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B552"
+    },
+    "523": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS361"
+    },
+    "76": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B361"
+    },
+    "20": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B305"
+    },
+    "203": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B488"
+    },
+    "181": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B466"
+    },
+    "429": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS267"
+    },
+    "580": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS141"
+    },
+    "95": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B380"
+    },
+    "65": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B350"
+    },
+    "246": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B531"
+    },
+    "595": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS156"
+    },
+    "43": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B328"
+    },
+    "124": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B409"
+    },
+    "139": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B424"
+    },
+    "206": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B491"
+    },
+    "147": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B432"
+    },
+    "91": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B376"
+    },
+    "264": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B549"
+    },
+    "50": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B335"
+    },
+    "622": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS183"
+    },
+    "135": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B420"
+    },
+    "39": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B324"
+    },
+    "165": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B450"
+    },
+    "171": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B456"
+    },
+    "527": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS365"
+    },
+    "486": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS324"
+    },
+    "69": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B354"
+    },
+    "13": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B298"
+    },
+    "746": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB950"
+    },
+    "271": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B556"
+    },
+    "14": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B299"
+    },
+    "715": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB919"
+    },
+    "639": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS200"
+    },
+    "511": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS349"
+    },
+    "607": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS168"
+    },
+    "575": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS136"
+    },
+    "1": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B286"
+    },
+    "425": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS263"
+    },
+    "262": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B547"
+    },
+    "352": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS190"
+    },
+    "468": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS306"
+    },
+    "601": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS162"
+    },
+    "11": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B296"
+    },
+    "200": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B485"
+    },
+    "169": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B454"
+    },
+    "670": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS231"
+    },
+    "647": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS208"
+    },
+    "325": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS163"
+    },
+    "586": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS147"
+    },
+    "25": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B310"
+    },
+    "364": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS202"
+    },
+    "309": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS147"
+    },
+    "166": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B451"
+    },
+    "753": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB957"
+    },
+    "451": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS289"
+    },
+    "187": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B472"
+    },
+    "375": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS213"
+    },
+    "259": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B544"
+    },
+    "747": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB951"
+    },
+    "711": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB915"
+    },
+    "62": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B347"
+    },
+    "706": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB910"
+    },
+    "494": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS332"
+    },
+    "489": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS327"
+    },
+    "268": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B553"
+    },
+    "162": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B447"
+    },
+    "741": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB945"
+    },
+    "134": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B419"
+    },
+    "180": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B465"
+    },
+    "257": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B542"
+    },
+    "467": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS305"
+    },
+    "654": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS215"
+    },
+    "252": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B537"
+    },
+    "185": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B470"
+    },
+    "354": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS192"
+    },
+    "471": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS309"
+    },
+    "642": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS203"
+    },
+    "401": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS239"
+    },
+    "109": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B394"
+    },
+    "361": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS199"
+    },
+    "676": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS237"
+    },
+    "730": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB934"
+    },
+    "184": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B469"
+    },
+    "343": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS181"
+    },
+    "438": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS276"
+    },
+    "386": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS224"
+    },
+    "460": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS298"
+    },
+    "568": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS129"
+    },
+    "719": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB923"
+    },
+    "144": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B429"
+    },
+    "449": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS287"
+    },
+    "533": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS371"
+    },
+    "685": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS246"
+    },
+    "507": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS345"
+    },
+    "320": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS158"
+    },
+    "428": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS266"
+    },
+    "578": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS139"
+    },
+    "285": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS104"
+    },
+    "132": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B417"
+    },
+    "662": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS223"
+    },
+    "307": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS145"
+    },
+    "340": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS178"
+    },
+    "44": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B329"
+    },
+    "292": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS127"
+    },
+    "106": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B391"
+    },
+    "275": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS086"
+    },
+    "656": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS217"
+    },
+    "478": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS316"
+    },
+    "314": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS152"
+    },
+    "609": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS170"
+    },
+    "717": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB921"
+    },
+    "201": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B486"
+    },
+    "388": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS226"
+    },
+    "182": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B467"
+    },
+    "664": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "MS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "MS225"
+    },
+    "345": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS183"
+    },
+    "81": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B366"
+    },
+    "675": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS236"
+    },
+    "572": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS133"
+    },
+    "378": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS216"
+    },
+    "613": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS174"
+    },
+    "137": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B422"
+    },
+    "366": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS204"
+    },
+    "318": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS156"
+    },
+    "360": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS198"
+    },
+    "219": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B504"
+    },
+    "585": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS146"
+    },
+    "266": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B551"
+    },
+    "114": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B399"
+    },
+    "491": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS329"
+    },
+    "436": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS274"
+    },
+    "112": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B397"
+    },
+    "743": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB947"
+    },
+    "208": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B493"
+    },
+    "117": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B402"
+    },
+    "233": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B518"
+    },
+    "571": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS132"
+    },
+    "693": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS254"
+    },
+    "677": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS238"
+    },
+    "465": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS303"
+    },
+    "19": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B304"
+    },
+    "445": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS283"
+    },
+    "243": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B528"
+    },
+    "525": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS363"
+    },
+    "38": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B323"
+    },
+    "279": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS090"
+    },
+    "276": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS087"
+    },
+    "517": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS355"
+    },
+    "674": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS235"
+    },
+    "359": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS197"
+    },
+    "634": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS195"
+    },
+    "589": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS150"
+    },
+    "128": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B413"
+    },
+    "564": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS125"
+    },
+    "5": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B290"
+    },
+    "321": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS159"
+    },
+    "324": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS162"
+    },
+    "565": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS126"
+    },
+    "652": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS213"
+    },
+    "58": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B343"
+    },
+    "686": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS247"
+    },
+    "751": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB955"
+    },
+    "590": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS151"
+    },
+    "382": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS220"
+    },
+    "553": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS114"
+    },
+    "178": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B463"
+    },
+    "113": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B398"
+    },
+    "372": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS210"
+    },
+    "710": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB914"
+    },
+    "667": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS228"
+    },
+    "108": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B393"
+    },
+    "86": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B371"
+    },
+    "534": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS372"
+    },
+    "627": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS188"
+    },
+    "528": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS366"
+    },
+    "721": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB925"
+    },
+    "592": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS153"
+    },
+    "740": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB944"
+    },
+    "227": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B512"
+    },
+    "472": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS310"
+    },
+    "558": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS119"
+    },
+    "84": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B369"
+    },
+    "716": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB920"
+    },
+    "518": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS356"
+    },
+    "70": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B355"
+    },
+    "341": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS179"
+    },
+    "397": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS235"
+    },
+    "616": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS177"
+    },
+    "234": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B519"
+    },
+    "406": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS244"
+    },
+    "334": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS172"
+    },
+    "752": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB956"
+    },
+    "621": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS182"
+    },
+    "574": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS135"
+    },
+    "643": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS204"
+    },
+    "720": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB924"
+    },
+    "140": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B425"
+    },
+    "434": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS272"
+    },
+    "29": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B314"
+    },
+    "395": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS233"
+    },
+    "336": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS174"
+    },
+    "745": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB949"
+    },
+    "416": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS254"
+    },
+    "122": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B407"
+    },
+    "697": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB901"
+    },
+    "330": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS168"
+    },
+    "93": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B378"
+    },
+    "505": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS343"
+    },
+    "653": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS214"
+    },
+    "415": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS253"
+    },
+    "524": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS362"
+    },
+    "519": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS357"
+    },
+    "421": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS259"
+    },
+    "615": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS176"
+    },
+    "561": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS122"
+    },
+    "173": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B458"
+    },
+    "141": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B426"
+    },
+    "355": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS193"
+    },
+    "123": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B408"
+    },
+    "520": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS358"
+    },
+    "399": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS237"
+    },
+    "98": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B383"
+    },
+    "547": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS108"
+    },
+    "707": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB911"
+    },
+    "291": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS126"
+    },
+    "695": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS256"
+    },
+    "371": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS209"
+    },
+    "175": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B460"
+    },
+    "480": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS318"
+    },
+    "87": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B372"
+    },
+    "536": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS374"
+    },
+    "258": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B543"
+    },
+    "64": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B349"
+    },
+    "312": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS150"
+    },
+    "692": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS253"
+    },
+    "441": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS279"
+    },
+    "66": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B351"
+    },
+    "274": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS085"
+    },
+    "594": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS155"
+    },
+    "244": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B529"
+    },
+    "250": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B535"
+    },
+    "136": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B421"
+    },
+    "655": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS216"
+    },
+    "286": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS117"
+    },
+    "188": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B473"
+    },
+    "28": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B313"
+    },
+    "45": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B330"
+    },
+    "197": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B482"
+    },
+    "22": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B307"
+    },
+    "154": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B439"
+    },
+    "582": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS143"
+    },
+    "221": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B506"
+    },
+    "35": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B320"
+    },
+    "567": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS128"
+    },
+    "192": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B477"
+    },
+    "18": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B303"
+    },
+    "530": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS368"
+    },
+    "640": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS201"
+    },
+    "611": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS172"
+    },
+    "413": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS251"
+    },
+    "102": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B387"
+    },
+    "191": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B476"
+    },
+    "683": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS244"
+    },
+    "273": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS084"
+    },
+    "619": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS180"
+    },
+    "566": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS127"
+    },
+    "696": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS257"
+    },
+    "387": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS225"
+    },
+    "532": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS370"
+    },
+    "508": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS346"
+    },
+    "129": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B414"
+    },
+    "226": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B511"
+    },
+    "729": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB933"
+    },
+    "430": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS268"
+    },
+    "487": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS325"
+    },
+    "409": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS247"
+    },
+    "40": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B325"
+    },
+    "347": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS185"
+    },
+    "277": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS088"
+    },
+    "67": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B352"
+    },
+    "544": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS105"
+    },
+    "636": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS197"
+    },
+    "484": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS322"
+    },
+    "284": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS103"
+    },
+    "450": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS288"
+    },
+    "500": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS338"
+    },
+    "577": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS138"
+    },
+    "235": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B520"
+    },
+    "734": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB938"
+    },
+    "115": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B400"
+    },
+    "443": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS281"
+    },
+    "596": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS157"
+    },
+    "754": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB958"
+    },
+    "573": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS134"
+    },
+    "481": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS319"
+    },
+    "287": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS118"
+    },
+    "100": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B385"
+    },
+    "466": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS304"
+    },
+    "121": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B406"
+    },
+    "626": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS187"
+    },
+    "410": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS248"
+    },
+    "702": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB906"
+    },
+    "427": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS265"
+    },
+    "748": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB952"
+    },
+    "424": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS262"
+    },
+    "346": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS184"
+    },
+    "119": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B404"
+    },
+    "473": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS311"
+    },
+    "522": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS360"
+    },
+    "317": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS155"
+    },
+    "26": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B311"
+    },
+    "422": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS260"
+    },
+    "563": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS124"
+    },
+    "176": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B461"
+    },
+    "705": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB909"
+    },
+    "678": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS239"
+    },
+    "319": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS157"
+    },
+    "608": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS169"
+    },
+    "588": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS149"
+    },
+    "385": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS223"
+    },
+    "7": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B292"
+    },
+    "600": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS161"
+    },
+    "356": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS194"
+    },
+    "393": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS231"
+    },
+    "516": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS354"
+    },
+    "327": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "HS",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "HS165"
+    },
+    "90": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B375"
+    },
+    "637": {
+        "Bus Yard Address": "60-66 Cambridge Street Boston MA, 02129",
+        "Longitude": -71.075801,
+        "Latitude": 42.382205,
+        "Bus Type": "MS",
+        "Bus Yard": "Wash",
+        "Bus Number": "MS198"
+    },
+    "215": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B500"
+    },
+    "390": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS228"
+    },
+    "103": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "Full",
+        "Bus Yard": "Frpt",
+        "Bus Number": "B388"
+    },
+    "529": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS367"
+    },
+    "349": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "HS",
+        "Bus Yard": "Read",
+        "Bus Number": "HS187"
+    },
+    "455": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "HS",
+        "Bus Yard": "Frpt",
+        "Bus Number": "HS293"
+    },
+    "24": {
+        "Bus Yard Address": "10-34 Freeport St Dorchester MA, 02125",
+        "Longitude": -71.057577,
+        "Latitude": 42.307069,
+        "Bus Type": "Full",
+        "Bus Yard": "Read",
+        "Bus Number": "B309"
+    },
+    "722": {
+        "Bus Yard Address": "2000 Washington Street Boston MA, 02119",
+        "Longitude": -71.080309,
+        "Latitude": 42.333189,
+        "Bus Type": "WC",
+        "Bus Yard": "Frpt",
+        "Bus Number": "WB926"
+    },
+    "127": {
+        "Bus Yard Address": "21 Industrial Dr Boston MA, 02136",
+        "Longitude": -71.139795,
+        "Latitude": 42.23739,
+        "Bus Type": "Full",
+        "Bus Yard": "Ctwn",
+        "Bus Number": "B412"
+    }
+}

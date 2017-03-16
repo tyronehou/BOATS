@@ -1,0 +1,714 @@
+{
+    "72": {
+        "Longitude": -71.124169,
+        "Latitude": 42.243071,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Pete Runnels School",
+        "Address": "95 Needham Rd, 02136"
+    },
+    "71": {
+        "Longitude": -71.160198,
+        "Latitude": 42.345453,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Pedro Martinez School",
+        "Address": "60 Glenmont Rd, 02135"
+    },
+    "31": {
+        "Longitude": -71.081716,
+        "Latitude": 42.327022,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Frank Malzone School",
+        "Address": "20 Kearsarge Ave, 02119"
+    },
+    "85": {
+        "Longitude": -71.105636,
+        "Latitude": 42.321804,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Tony Conigliaro School",
+        "Address": "7 Bolster St, 02130"
+    },
+    "8": {
+        "Longitude": -71.035074,
+        "Latitude": 42.381099,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Bobby Doerr School",
+        "Address": "86 White St, 02128"
+    },
+    "11": {
+        "Longitude": -71.081162,
+        "Latitude": 42.307152,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Carlton Fisk School",
+        "Address": "60 Washington St, 02121"
+    },
+    "45": {
+        "Longitude": -71.0756,
+        "Latitude": 42.309175,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Jim Lonborg School",
+        "Address": "270 Columbia Rd, 02121"
+    },
+    "12": {
+        "Longitude": -71.069592,
+        "Latitude": 42.281235,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Cecil Hughson School",
+        "Address": "18 Croftland Av, 02124"
+    },
+    "53": {
+        "Longitude": -71.076481,
+        "Latitude": 42.311055,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Joe Mooney School",
+        "Address": "77 Lawrence Ave, 02121"
+    },
+    "54": {
+        "Longitude": -71.004216,
+        "Latitude": 42.388404,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Joe Morgan School",
+        "Address": "195 Leyden St, 02128"
+    },
+    "41": {
+        "Longitude": -71.067343,
+        "Latitude": 42.379137,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Jackie Jensen School",
+        "Address": "28 Walker St, 02129"
+    },
+    "58": {
+        "Longitude": -71.135332,
+        "Latitude": 42.277735,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "John Valentin School",
+        "Address": "426 Beech St, 02131"
+    },
+    "25": {
+        "Longitude": -71.07349,
+        "Latitude": 42.344252,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Dwight Evans School",
+        "Address": "90 Warren Ave, 02116"
+    },
+    "56": {
+        "Longitude": -71.104443,
+        "Latitude": 42.26739,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "John Harrington School",
+        "Address": "154 Ruskindale Rd, 02126"
+    },
+    "73": {
+        "Longitude": -71.132846,
+        "Latitude": 42.233938,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Red Ruffing School",
+        "Address": "30 Millstone Rd, 02136"
+    },
+    "35": {
+        "Longitude": -71.106364,
+        "Latitude": 42.33392,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "George Lewis School",
+        "Address": "10 Fenwood Rd, 02115"
+    },
+    "16": {
+        "Longitude": -71.07797,
+        "Latitude": 42.350546,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Dave Ferriss School",
+        "Address": "150 Newbury St, 02116"
+    },
+    "37": {
+        "Longitude": -71.076013,
+        "Latitude": 42.285125,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Harry Hooper School",
+        "Address": "9 Peacevale Rd, 02124"
+    },
+    "62": {
+        "Longitude": -71.091086,
+        "Latitude": 42.325545,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Larry Lucchino School",
+        "Address": "51 Cedar St, 02119"
+    },
+    "42": {
+        "Longitude": -71.091208,
+        "Latitude": 42.330591,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Jason Varitek School",
+        "Address": "205 Roxbury St, 02119"
+    },
+    "52": {
+        "Longitude": -71.097867,
+        "Latitude": 42.313946,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Joe Dobson School",
+        "Address": "61 School St, 02119"
+    },
+    "18": {
+        "Longitude": -71.068212,
+        "Latitude": 42.348816,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Dick Bresciani School",
+        "Address": "20 Church St, 02116"
+    },
+    "86": {
+        "Longitude": -71.114084,
+        "Latitude": 42.318999,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Tris Speaker School",
+        "Address": "40 Pershing Rd, 02130"
+    },
+    "26": {
+        "Longitude": -71.106757,
+        "Latitude": 42.347944,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Eddie Collins School",
+        "Address": "50 St Mary St, 02215"
+    },
+    "84": {
+        "Longitude": -71.08306,
+        "Latitude": 42.340473,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Tommy Harper School",
+        "Address": "396 Northampton St, 02118"
+    },
+    "88": {
+        "Longitude": -71.064634,
+        "Latitude": 42.377893,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Wade Boggs School",
+        "Address": "50 School St, 02129"
+    },
+    "36": {
+        "Longitude": -71.068867,
+        "Latitude": 42.34842,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "George Scott School",
+        "Address": "152 Arlington St, 02116"
+    },
+    "70": {
+        "Longitude": -71.155576,
+        "Latitude": 42.347796,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Nomar Garciaparra School",
+        "Address": "54 Dighton St, 02135"
+    },
+    "61": {
+        "Longitude": -71.042872,
+        "Latitude": 42.317259,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Larry Gardner School",
+        "Address": "325 Mt Vernon St, 02125"
+    },
+    "48": {
+        "Longitude": -71.155874,
+        "Latitude": 42.263432,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Jimmy Collins School",
+        "Address": "5125 Washington St, 02132"
+    },
+    "27": {
+        "Longitude": -71.099084,
+        "Latitude": 42.343455,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Eddie Kasko School",
+        "Address": "97 Peterborough St, 02215"
+    },
+    "40": {
+        "Longitude": -71.080863,
+        "Latitude": 42.281211,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Ira Flagstaff School",
+        "Address": "100 Maxwell St, 02124"
+    },
+    "32": {
+        "Longitude": -71.094974,
+        "Latitude": 42.346182,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "4:10 PM",
+        "School Name": "Frank Sullivan School",
+        "Address": "174 Ipswich St, 02215"
+    },
+    "67": {
+        "Longitude": -71.077536,
+        "Latitude": 42.277863,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Mike Greenwell School",
+        "Address": "1060 Morton St, 02126"
+    },
+    "2": {
+        "Longitude": -71.084757,
+        "Latitude": 42.316794,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Ben Mondor School",
+        "Address": "205 Townsend St, 02121"
+    },
+    "33": {
+        "Longitude": -71.099279,
+        "Latitude": 42.314132,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Fred Lynn School",
+        "Address": "80 School St, 02119"
+    },
+    "55": {
+        "Longitude": -71.005053,
+        "Latitude": 42.391629,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "John Gorman School",
+        "Address": "110 Beachview Rd, 02128"
+    },
+    "9": {
+        "Longitude": -71.109228,
+        "Latitude": 42.306584,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Bruce Hurst School",
+        "Address": "144 McBride St, 02130"
+    },
+    "74": {
+        "Longitude": -71.127075,
+        "Latitude": 42.256769,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Reggie Smith School",
+        "Address": "40 Gordon Ave, 02136"
+    },
+    "29": {
+        "Longitude": -71.126357,
+        "Latitude": 42.28301,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Ellis Kinder School",
+        "Address": "60 Hawthorne St, 02136"
+    },
+    "63": {
+        "Longitude": -71.071284,
+        "Latitude": 42.326126,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Lefty Grove School",
+        "Address": "150 Norfolk Ave, 02119"
+    },
+    "10": {
+        "Longitude": -71.061732,
+        "Latitude": 42.300881,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Carl Yastrzemski School",
+        "Address": "11 Charles St, 02122"
+    },
+    "21": {
+        "Longitude": -71.174549,
+        "Latitude": 42.282206,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Dick Williams School",
+        "Address": "1205 VFW Pkwy, 02132"
+    },
+    "60": {
+        "Longitude": -71.074892,
+        "Latitude": 42.296691,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Ken Coleman School",
+        "Address": "40 School St, 02124"
+    },
+    "44": {
+        "Longitude": -71.043822,
+        "Latitude": 42.317753,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Jerry Remy School",
+        "Address": "315 Mt Vernon St, 02125"
+    },
+    "15": {
+        "Longitude": -71.117881,
+        "Latitude": 42.262783,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Cy Young School",
+        "Address": "655 Metropolitan Av, 02136"
+    },
+    "83": {
+        "Longitude": -71.077747,
+        "Latitude": 42.338748,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Tom Yawkey School",
+        "Address": "70 Worcester St, 02118"
+    },
+    "76": {
+        "Longitude": -71.107826,
+        "Latitude": 42.286377,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Rick Ferrell School",
+        "Address": "570 Amer Legion Hwy, 02131"
+    },
+    "20": {
+        "Longitude": -71.174549,
+        "Latitude": 42.282206,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Dick Radatz School",
+        "Address": "1205 VFW Pkwy, 02132"
+    },
+    "17": {
+        "Longitude": -71.090845,
+        "Latitude": 42.332063,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Dennis Eckersley School",
+        "Address": "75 Malcolm X Blvd, 02120"
+    },
+    "65": {
+        "Longitude": -71.080657,
+        "Latitude": 42.296597,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Marty Barrett School",
+        "Address": "189 Glenway St, 02121"
+    },
+    "59": {
+        "Longitude": -71.141075,
+        "Latitude": 42.281233,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Johnny Pesky School",
+        "Address": "236 Beech St, 02131"
+    },
+    "43": {
+        "Longitude": -71.125275,
+        "Latitude": 42.283304,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Jean Yawkey School",
+        "Address": "105 Cummins Hgwy, 02131"
+    },
+    "82": {
+        "Longitude": -71.073605,
+        "Latitude": 42.306015,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "4:10 PM",
+        "School Name": "Tim Wakefield School",
+        "Address": "85 Olney St, 02121"
+    },
+    "5": {
+        "Longitude": -71.061057,
+        "Latitude": 42.380102,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Bill Monbouquette School",
+        "Address": "240 Medford St, 02129"
+    },
+    "49": {
+        "Longitude": -71.162543,
+        "Latitude": 42.271834,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Jimmy Piersall School",
+        "Address": "35 Baker St, 02132"
+    },
+    "77": {
+        "Longitude": -71.106552,
+        "Latitude": 42.326009,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Rico Petrocelli School",
+        "Address": "200 Heath St, 02130"
+    },
+    "89": {
+        "Longitude": -71.114485,
+        "Latitude": 42.307318,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Wes Ferrell School",
+        "Address": "20 Child St, 02130"
+    },
+    "23": {
+        "Longitude": -71.099301,
+        "Latitude": 42.330669,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Don Zimmer School",
+        "Address": "67 Alleghany St, 02120"
+    },
+    "39": {
+        "Longitude": -71.080863,
+        "Latitude": 42.281211,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Herb Pennock School",
+        "Address": "100 Maxwell St, 02124"
+    },
+    "46": {
+        "Longitude": -71.050617,
+        "Latitude": 42.333728,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Jim Rice School",
+        "Address": "215 Dorchester St, 02127"
+    },
+    "6": {
+        "Longitude": -71.114485,
+        "Latitude": 42.307318,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Billy Goodman School",
+        "Address": "20 Child Street, 02130"
+    },
+    "79": {
+        "Longitude": -71.092292,
+        "Latitude": 42.316916,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Smoky Wood School",
+        "Address": "302 Walnut Ave, 02119"
+    },
+    "50": {
+        "Longitude": -71.152211,
+        "Latitude": 42.29256,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Joe Castiglione School",
+        "Address": "140 Russett Rd, 02132"
+    },
+    "78": {
+        "Longitude": -71.106552,
+        "Latitude": 42.326009,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Roger Clemens School",
+        "Address": "200 Heath St, 02130"
+    },
+    "22": {
+        "Longitude": -71.081162,
+        "Latitude": 42.307152,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Dom DiMaggio School",
+        "Address": "60 Washington St, 02121"
+    },
+    "51": {
+        "Longitude": -71.075627,
+        "Latitude": 42.318206,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Joe Cronin School",
+        "Address": "35 Brookford St, 02125"
+    },
+    "68": {
+        "Longitude": -71.133959,
+        "Latitude": 42.360776,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "4:10 PM",
+        "School Name": "Mo Vaughn School",
+        "Address": "30 Athol St, 02134"
+    },
+    "64": {
+        "Longitude": -71.072897,
+        "Latitude": 42.323526,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Luis Tiant School",
+        "Address": "6 Shirley St, 02119"
+    },
+    "7": {
+        "Longitude": -71.061732,
+        "Latitude": 42.300881,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Bob Stanley School",
+        "Address": "11 Charles St, 02122"
+    },
+    "75": {
+        "Longitude": -71.133338,
+        "Latitude": 42.251551,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Rick Burleson School",
+        "Address": "35 Sunnyside St, 02136"
+    },
+    "69": {
+        "Longitude": -71.161468,
+        "Latitude": 42.351069,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Ned Martin School",
+        "Address": "50 Beechcroft St, 02135"
+    },
+    "87": {
+        "Longitude": -71.057759,
+        "Latitude": 42.37668,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Vern Stephens School",
+        "Address": "50 Bunker Hill St, 02129"
+    },
+    "13": {
+        "Longitude": -71.044888,
+        "Latitude": 42.332875,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Curt Gowdy School",
+        "Address": "95 G St, 02127"
+    },
+    "66": {
+        "Longitude": -71.059813,
+        "Latitude": 42.31365,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Mel Parnell School",
+        "Address": "71 Pleasant St, 02125"
+    },
+    "34": {
+        "Longitude": -71.091512,
+        "Latitude": 42.341466,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "George Digby School",
+        "Address": "110 The Fenway, 02115"
+    },
+    "4": {
+        "Longitude": -71.145516,
+        "Latitude": 42.349138,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Bill Lee School",
+        "Address": "25 Warren St, 02135"
+    },
+    "3": {
+        "Longitude": -71.088386,
+        "Latitude": 42.330843,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Bill Carrigan School",
+        "Address": "55 Malcolm X Blvd, 02120"
+    },
+    "14": {
+        "Longitude": -71.160745,
+        "Latitude": 42.352125,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "4:10 PM",
+        "School Name": "Curt Schilling School",
+        "Address": "95 Beechcroft St, 02135"
+    },
+    "19": {
+        "Longitude": -71.117446,
+        "Latitude": 42.265228,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Dick O'Connell School",
+        "Address": "612 Metropolitan Av, 02136"
+    },
+    "80": {
+        "Longitude": -71.091564,
+        "Latitude": 42.317688,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "3:10 PM",
+        "School Name": "Sr. Kennedy School",
+        "Address": "160 Harrishof St, 02119"
+    },
+    "30": {
+        "Longitude": -71.103466,
+        "Latitude": 42.308935,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "Everett Scott School",
+        "Address": "25 Glen Rd, 02130"
+    },
+    "81": {
+        "Longitude": -71.086945,
+        "Latitude": 42.320827,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Ted Williams School",
+        "Address": "131 Walnut Ave, 02119"
+    },
+    "38": {
+        "Longitude": -71.145582,
+        "Latitude": 42.350354,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "4:10 PM",
+        "School Name": "Haywood Sullivan School",
+        "Address": "20 Warren St, 02135"
+    },
+    "57": {
+        "Longitude": -71.127316,
+        "Latitude": 42.274604,
+        "Current School Start Time": "9:30 AM",
+        "Current School End Time": "5:00 PM",
+        "School Name": "John Taylor School",
+        "Address": "450 Poplar St, 02131"
+    },
+    "24": {
+        "Longitude": -71.117881,
+        "Latitude": 42.262783,
+        "Current School Start Time": "8:30 AM",
+        "Current School End Time": "4:00 PM",
+        "School Name": "Dutch Leonard School",
+        "Address": "655 Metropolitan Av, 02136"
+    },
+    "47": {
+        "Longitude": -71.085266,
+        "Latitude": 42.337285,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Jimmie Foxx School",
+        "Address": "50 Burke St, 02127"
+    },
+    "1": {
+        "Longitude": -71.101323,
+        "Latitude": 42.337962,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "3:00 PM",
+        "School Name": "Babe Ruth School",
+        "Address": "78 Louis Pasteur, 02115"
+    },
+    "28": {
+        "Longitude": -71.07349,
+        "Latitude": 42.344252,
+        "Current School Start Time": "7:30 AM",
+        "Current School End Time": "2:10 PM",
+        "School Name": "Ellis Burks School",
+        "Address": "90 Warren Ave, 02116"
+    }
+}
