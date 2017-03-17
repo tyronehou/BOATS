@@ -112,16 +112,9 @@ pip install dml --upgrade --no-cache-dir
 ```
 If you are having trouble with `lxml`, you could try retrieving it [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/).
 
-The full list of dependencies is as follows:
-* dml
-* prov
-* xmltodict
-* pyshp
-* pyproj
-* dbfread
-* random
-* rtree (requires libspatialindex; see below)
-    * [libspatialindex] (https://libspatialindex.github.io/)
+Refer to the requirements.txt file to see the full list of python dependencies you will need to install
+In order to build the rtree library used for kmeans clustering, you have to first build [libspatialindex] (https://libspatialindex.github.io/)
+
 \* **MAKE SURE YOU HAVE MONGOD RUNNING FIRST AND AUTH'D** \*
   
 **main.py**: executes all scripts in order and performs optimizations (-t: trial mode to do Algo R Sampling on datasets, -v: produce graphs for optimizations)  
