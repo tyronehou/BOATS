@@ -8,13 +8,15 @@ Report written by Mark Bestavros
 ## Introduction
 Over the past two semesters, I have been studying Data Mechanics: the study of how data moves through institutions and urban settings, and how we can use this data as part of algorithmic approaches to improve how cities function and operate. Specifically, I have been working with two classmates of mine under Andrei Lapets, developing algorithmic approaches to improving bus systems in Boston. This report will serve as an overview of the work we’ve done primarily in the Spring 2017 semester. 
 
-## Summary of Existing Research
+### Summary of Existing Research
 This semester’s work served as a direct continuation of our research project in Professor Lapets’ CS591: Data Mechanics for Pervasive Systems and Urban Applications course for Fall 2016. Many of the methods and algorithms applied in this semester’s research came directly from that project, so this section will serve as a brief summary and analysis of the research from last semester before elaborating on the expansions to that work this semester.
+
 Last semester, we focused on improving the MBTA’s public bus system through two key optimizations: 
+
 1. **Bus station placement optimization**: The routes that run through metropolitan Boston distribute stops across the city according to a variety of considerations. Ideally stop placement would take into account geographic population density and reduce the distance and amount of time it takes for a person to reach the closest bus stop. We use the k-means clustering algorithm to generate means corresponding to residential properties in Boston, and use those means to derive new optimal bus stop locations along a route. To ensure that the means lie along the original bus route, we first project all residential areas within 0.5 km of a route to the closest point on the route. We then map these points into a one dimensional space so that the k-means will only move means along the route, then map the means back into two dimensional space to get the locations of the optimal bus stops.
 
 2. **Bus allocation optimization**: The second most important consideration in optimizing bus routes is the number of buses each route should be allocated. Using MBTA bus location data with estimates of their average speed and deviation, the average completion time of a route per bus plus the deviation of that time can be derived. Two metrics used to measure the allocation is the latency of the route (on average how long it takes for a stop to be serviced) and the inefficiency of the allocation (the probability that two bus schedules will overlap each other at some point).  Assuming that the distribution of completion time is normally distributed, and that buses will be sent out at equal intervals to maximize coverage, the formula for optimization is below:  
-  
+
 ![Allocation Score Formula](https://raw.githubusercontent.com/tyronehou/course-2016-fal-proj/master/alaw_markbest_tyroneh/poster/optimalAllocationFormula.gif)
 
 Total latency is simplified in that inter-stop distance is not calculated; rather, latency is the average interarrival time (completion time / k) multiplied by n, where n is the number of stops and k is the number of buses. Inefficiency can be measured by the total area of intersection of k normal distributions multiplied by the number of buses. Output in the collection OptimumAllocation stores the optimal number of buses for each route.
