@@ -6,7 +6,7 @@ Adrian Law, Mark Bestavros, Tyrone Hou
 Report written by Mark Bestavros
 
 ## Introduction
-Over the past two semesters, I have been studying Data Mechanics: the study of how data moves through institutions and urban settings, and how we can use this data as part of algorithmic approaches to improve how cities function and operate. Specifically, I have been working with two classmates of mine under Andrei Lapets, developing algorithmic approaches to improving bus systems in Boston. This report will serve as an overview of the work we’ve done primarily in the Spring 2017 semester. 
+Over the past two semesters, we have been studying Data Mechanics: the study of how data moves through institutions and urban settings, and how we can use this data as part of algorithmic approaches to improve how cities function and operate. Specifically, we have been working under Andrei Lapets, developing optimizations for bus systems in Boston. This report will serve as an overview of the work we’ve done primarily in the Spring 2017 semester. 
 
 ### Summary of Existing Research
 This semester’s work served as a direct continuation of our research project in Professor Lapets’ CS591: Data Mechanics for Pervasive Systems and Urban Applications course for Fall 2016. Many of the methods and algorithms applied in this semester’s research came directly from that project, so this section will serve as a brief summary and analysis of the research from last semester before elaborating on the expansions to that work this semester.
@@ -69,4 +69,11 @@ Once we had finished developing a randomized dataset for the Transportation Chal
 
 We consider the following optimization a “baseline;” that is, we expect to do better in future iterations. As-is, this is a naïve solution that should benchmark how well-optimized the current BPS bus system is.
 
-The first step in our algorithm is finding optimal bus stops for the student body. As outlined above in the summary of existing research, we worked on a very similar problem during the Data Mechanics class in optimizing the MBTA’s bus stops, and we decided to apply that approach here. We use k-means to generate potential stop locations
+The first step in our algorithm is finding optimal bus stops for the student body. As outlined above in the summary of existing research, we worked on a very similar problem during the Data Mechanics class in optimizing the MBTA’s bus stops, and we decided to apply that approach here. The process for generating bus stops is roughly as follows:
+
+1.  Use k-means on the student dataset to generate potential stop locations, and
+2.  assign students to the generated stops, following the constraints set out by BPS about student walking distance and neighborhood safety
+
+This algorithm will work on any student dataset, though we test it on our randomized dataset.
+
+Next, we need a graph representation of Boston's roads, which we generate using the geoql library and 
