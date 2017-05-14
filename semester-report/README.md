@@ -83,10 +83,10 @@ Both these datasets, in addition to school coordinate information, are fed into 
 1. **Initialization:** every stop starts with at least one bus (up to as many needed to hold all students assigned to that stop). Total driven miles is equal to the length of all routes combined.
 2. **Assignment:** For every route, individually test a merge with every other route and calculate a new potential route which combines both routes' stops, and the new route's potential distance and capacity is calculated
     * After each route potential is calculated, the route potential that reduces the total distance the most is accepted as the next update to the current state
-3. Termination check: The total distance of all routes is calculated with the new potential route combination
+3. **Termination check:** The total distance of all routes is calculated with the new potential route combination
     * If the new potential route would increase the total distance, then the algorithm terminates in the current state of routes without the new route
     * If the new potential route would cause a student to be on the bus longer than the maximum of 60 minutes, then the algorithm terminates in the current state of routes without the new route
-4. Update: the current state is updated, and the combined route replaces the two original routes for the next iteration
+4. **Update:** the current state is updated, and the combined route replaces the two original routes for the next iteration
 
 When this algorithm finishes running, it will output all bus routes and stops from start to end, with total drive distance minimized.
 
@@ -96,4 +96,4 @@ With no good way to test our algorithm in practice short of deploying it for a f
 
 The most obvious candidate for future research is the routing algorithm. As mentioned before, what we have now is a baseline, and we really only worked seriously with one graph algorithm. We anticipate that applying more advanced techniques and digging deeper into graph theory could easily yield major improvements. In addition, the generated student dataset could also be improved for future transportation challenges. Some of the assumptions we made in making the dataset were naive; for example, we assume that only one student maximum lives in every household. This assumption held because the number of students was less than the total number of residences for every zip code, but an enriched dataset that takes into account the relative proportions of multi-student households would undoubtedly provide a more accurate picture of the City of Boston's students for researchers to play with.
 
-Much of the code for this research project is hosted in private repositories; if you are interested in having a look at our work, please let us know.
+Much of the code for this research project is hosted in private repositories. If you are interested in having a look at our work, please let us know.
