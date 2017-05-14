@@ -50,14 +50,14 @@ As part of the challenge, parties need a dataset of students and schools to work
 
 < image of initial dataset visualization here >
 
-A dataset that is non-representative of the actual student populations in Boston, such as this originally proposed dataset, would affect the submitted algorithms’ effectiveness in the real world. Additionally, we anticipated that many teams would be doing redundant work in converting the provided Excel spreadsheet to a better format like GeoJSON. After voicing these concerns to BPS, they agreed to collaborate with us on generating a better randomized dataset that would be provided to the public as part of the challenge once it kicked off.
+A dataset that is non-representative of the actual student populations in Boston, such as this originally proposed dataset, would affect the submitted algorithms’ effectiveness in the real world. Additionally, we anticipated that many teams would be doing redundant work in converting the provided Excel spreadsheet to a better format like `GeoJSON`. After voicing these concerns to BPS, they agreed to collaborate with us on generating a better randomized dataset that would be provided to the public as part of the challenge once it kicked off.
 
 To build this simulated student dataset, we used several publicly-available datasets derived from the Massachusetts census, along with key demographic information about students in Boston Public Schools and the existing residential dataset that we collected as part of our previous semester’s research. On a high level, our algorithm goes zipcode-by-zipcode and follows these steps:
 
 1.	looks at the number of BPS students living in that zip and randomly assigns residential addresses as “student addresses” until the number of students matches up, and
 2.	looks at the percentages of students in that zip that go to different schools, and randomly assigns schools to student addresses based on that distribution. 
 
-From there, we assign any other necessary information (such as the household’s grade level, and the associated safe distance to walk as specified by BPS criteria) and the student’s bell time, which is randomly selected from the three possible times of 7:30, 8:30, and 9:30 to conform to the city-wide bell distribution (a roughly 40%-40%-20% split between the respective bell times). Finally, we store this data in the GeoJSON format, which is easily readable and more standardized among the data science community. (We also provide a function to output the dataset as an Excel spreadsheet.)
+From there, we assign any other necessary information (such as the household’s grade level, and the associated safe distance to walk as specified by BPS criteria) and the student’s bell time, which is randomly selected from the three possible times of 7:30, 8:30, and 9:30 to conform to the city-wide bell distribution (a roughly 40%-40%-20% split between the respective bell times). Finally, we store this data in the `GeoJSON` format, which is easily readable and more standardized among the data science community. (We also provide a function to output the dataset as an Excel spreadsheet.)
 
 Looking at the resulting dataset, we notice a much tighter clustering: for the most part, students tend to go to schools nearby to them. This is what we would expect from a realistic dataset.
 
@@ -76,4 +76,24 @@ The first step in our algorithm is finding optimal bus stops for the student bod
 
 This algorithm will work on any student dataset, though we test it on our randomized dataset.
 
-Next, we need a graph representation of Boston's roads, which we generate using the geoql library and 
+Next, we need a graph representation of Boston's roads, which we generate using the `geoql` and `networkx` Python libraries. We use `geoql` to filter out roads that do not meet the bus stop criteria (ex. highways, or roads that are too narrow to fit buses), and `networkx` to find the largest connected segment.
+
+Both these datasets, in addition to school coordinate information, are fed into the routing algorithm itself, which produces the desired bus routes. Before starting, we project the kmeans-generated bus stops onto the `networkx` graph as "stop nodes," giving us one dataset to work with that has all the necessary information to produce the routes. Once this is complete, the algorithm runs:
+
+1. **Initialization:** every stop starts with at least one bus (up to as many needed to hold all students assigned to that stop). Total driven miles is equal to the length of all routes combined.
+2. **Assignment:** For every route, individually test a merge with every other route and calculate a new potential route which combines both routes' stops, and the new route's potential distance and capacity is calculated
+    * After each route potential is calculated, the route potential that reduces the total distance the most is accepted as the next update to the current state
+3. Termination check: The total distance of all routes is calculated with the new potential route combination
+    * If the new potential route would increase the total distance, then the algorithm terminates in the current state of routes without the new route
+    * If the new potential route would cause a student to be on the bus longer than the maximum of 60 minutes, then the algorithm terminates in the current state of routes without the new route
+4. Update: the current state is updated, and the combined route replaces the two original routes for the next iteration
+
+When this algorithm finishes running, it will output all bus routes and stops from start to end, with total drive distance minimized.
+
+### Conclusion
+
+With no good way to test our algorithm in practice short of deploying it for a few days in the City of Boston, we really don't know how well our algorithm will stack up to the existing system in BPS. However, our advisor, Andrei Lapets, is currently working independently on an evaluation tool for submissions to the Transportation Challenge, so we should at least have some metric for how well we end up doing relative to other proposed solutions. 
+
+The most obvious candidate for future research is the routing algorithm. As mentioned before, what we have now is a baseline, and we really only worked seriously with one graph algorithm. We anticipate that applying more advanced techniques and digging deeper into graph theory could easily yield major improvements. In addition, the generated student dataset could also be improved for future transportation challenges. Some of the assumptions we made in making the dataset were naive; for example, we assume that only one student maximum lives in every household. This assumption held because the number of students was less than the total number of residences for every zip code, but an enriched dataset that takes into account the relative proportions of multi-student households would undoubtedly provide a more accurate picture of the City of Boston's students for researchers to play with.
+
+Much of the code for this research project is hosted in private repositories; if you are interested in having a look at our work, please let us know.
